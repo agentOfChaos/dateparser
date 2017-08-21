@@ -88,9 +88,13 @@ ago:
     - fa
 in:
     - in
+    - tra
 
 simplifications:
     - altro ieri: 2 giorni
+    - l'altro ieri: 2 giorni
     - ieri: 1 giorno
     - oggi: 0 giorni
+    - domani: tra 1 giorno
+    - dopodomani: tra 2 giorni
 
